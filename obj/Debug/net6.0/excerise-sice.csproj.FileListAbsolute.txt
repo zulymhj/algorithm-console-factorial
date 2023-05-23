@@ -1,0 +1,15 @@
+E:\Projects\SICE\algorithm-console-factorial\bin\Debug\net6.0\excerise-sice.exe
+E:\Projects\SICE\algorithm-console-factorial\bin\Debug\net6.0\excerise-sice.deps.json
+E:\Projects\SICE\algorithm-console-factorial\bin\Debug\net6.0\excerise-sice.runtimeconfig.json
+E:\Projects\SICE\algorithm-console-factorial\bin\Debug\net6.0\excerise-sice.dll
+E:\Projects\SICE\algorithm-console-factorial\bin\Debug\net6.0\excerise-sice.pdb
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.csproj.AssemblyReference.cache
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.AssemblyInfoInputs.cache
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.AssemblyInfo.cs
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.csproj.CoreCompileInputs.cache
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.dll
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\refint\excerise-sice.dll
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.pdb
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\excerise-sice.genruntimeconfig.cache
+E:\Projects\SICE\algorithm-console-factorial\obj\Debug\net6.0\ref\excerise-sice.dll
